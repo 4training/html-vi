@@ -1,0 +1,46 @@
+{
+    "language_code": "vi",
+    "english_name": "Vietnamese",
+    "worksheets": [
+        {
+            "page": "Baptism",
+            "title": "R\u1eeda t\u1ed9i",
+            "filename": "R\u1eeda_t\u1ed9i.html",
+            "version": "2.1"
+        },
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "T\u1eebng B\u01b0\u1edbc \u0111\u1ebfn v\u1edbi S\u1ef1 Tha Th\u1ee9",
+            "filename": "T\u1eebng_B\u01b0\u1edbc_\u0111\u1ebfn_v\u1edbi_S\u1ef1_Tha_Th\u1ee9.html",
+            "version": "1.3",
+            "pdf": "T\u1eebng_B\u01b0\u1edbc_\u0111\u1ebfn_v\u1edbi_s\u1ef1_Tha_Th\u1ee9.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "M\u1ed9t s\u1ed1 g\u1ee3i \u00fd cho vi\u1ec7c \u0111\u1ecdc Kinh Th\u00e1nh",
+            "filename": "M\u1ed9t_s\u1ed1_g\u1ee3i_\u00fd_cho_vi\u1ec7c_\u0111\u1ecdc_Kinh_Th\u00e1nh.html",
+            "version": "2.0",
+            "pdf": "M\u1ed9t_s\u1ed1_g\u1ee3i_\u00fd_cho_vi\u1ec7c_\u0111\u1ecdc_Kinh_Th\u00e1nh.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Starting_with_the_Creation)",
+            "title": "G\u1ee3i \u00fd c\u00e1ch \u0111\u1ecdc Kinh Th\u00e1nh",
+            "filename": "G\u1ee3i_\u00fd_c\u00e1ch_\u0111\u1ecdc_Kinh_Th\u00e1nh.html",
+            "version": "1.2",
+            "pdf": "Bible_reading_bookmark_Vietnamese.pdf"
+        },
+        {
+            "page": "A_Daily_Prayer",
+            "title": "L\u1eddi c\u1ea7u nguy\u1ec7n m\u1ed7i ng\u00e0y",
+            "filename": "L\u1eddi_c\u1ea7u_nguy\u1ec7n_m\u1ed7i_ng\u00e0y.html",
+            "version": "1.0",
+            "pdf": "A_Daily_Prayer_Vietnamese.pdf"
+        },
+        {
+            "page": "Leading_Others_Through_Forgiveness",
+            "title": "D\u1eabn D\u1eaft Ng\u01b0\u1eddi Kh\u00e1c \u0110\u1ebfn L\u00f2ng V\u1ecb Tha",
+            "filename": "D\u1eabn_D\u1eaft_Ng\u01b0\u1eddi_Kh\u00e1c_\u0110\u1ebfn_L\u00f2ng_V\u1ecb_Tha.html",
+            "version": "1.0"
+        }
+    ]
+}
